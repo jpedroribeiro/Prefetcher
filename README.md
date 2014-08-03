@@ -1,3 +1,4 @@
+
 Prefetcher
 ==========
 
@@ -5,8 +6,8 @@ Simple script to load files into a hidden iframe (so your current page remains u
 
 
 ## Usage
-1) Load the Prefetcher script into your page: <script src="js/Prefetcher.js"></script>
-2) Initialize the Prefetcher by assigning the files you wish to prefetch in an array:
+- Load the Prefetcher script into your page: <script src="js/Prefetcher.js"></script>
+- Initialize the Prefetcher by assigning the files you wish to prefetch in an array:
 ```
 Prefetcher.init([
 	'js/resourceOne.js',
@@ -14,8 +15,8 @@ Prefetcher.init([
 	'img/somePicture.jpg'
 ]);
 ```
-3) ...
-4) Profit!
+- ...
+- Profit!
 
 
 ## Running Locally
